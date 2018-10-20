@@ -110,10 +110,7 @@
             .text(function (d) {return d.id;});
 
         node.append("text")
-            .attr({
-                "dy": -3,
-                'font-size': 8
-                })
+            .attr("dy", -3)
             .text(function (d) {return d.name+":"+d.label;});
 
         simulation
