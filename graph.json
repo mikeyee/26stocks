@@ -307,12 +307,12 @@
     {
       "source": 1,
       "target": 47,
-      "type": "8億可換股債券"
+      "type": "8億cb"
     },
     {
       "source": 1,
       "target": 53,
-      "type": "5億可換股債券"
+      "type": "5億cb"
     },
     {
       "source": 3,
@@ -382,7 +382,7 @@
     {
       "source": 1,
       "target": 47,
-      "type": "8億可換股債券"
+      "type": "8億cb"
     },
     {
       "source": 12,
@@ -407,17 +407,17 @@
     {
       "source": 10,
       "target": 16,
-      "type": "9900萬美元可換股債券"
+      "type": "9900萬美元cb"
     },
     {
       "source": 10,
       "target": 22,
-      "type": "2億可換股債券"
+      "type": "2億cb"
     },
     {
       "source": 7,
       "target": 16,
-      "type": "4.29億可換股債券"
+      "type": "4.29億cb"
     },
     {
       "source": 16,
@@ -467,17 +467,17 @@
     {
       "source": 50,
       "target": 22,
-      "type": "2億可換股債券"
+      "type": "2億cb"
     },
     {
       "source": 50,
       "target": 54,
-      "type": "2億可換股債券"
+      "type": "2億cb"
     },
     {
       "source": 50,
       "target": 53,
-      "type": "8.24%＋1.5億可換股債券"
+      "type": "8.24%＋1.5億cb"
     },
     {
       "source": 49,
